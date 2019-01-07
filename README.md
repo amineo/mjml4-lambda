@@ -1,4 +1,4 @@
-#MJML4-Lambda
+# MJML4-Lambda
     
 A simple lambda that accepts mjml + options and returns the generated markup
 
