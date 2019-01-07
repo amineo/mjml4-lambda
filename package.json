@@ -1,0 +1,37 @@
+{
+  "name": "mjml4-lambda",
+  "version": "0.1.0",
+  "description": "A simple lambda that accepts mjml + options and returns the generated markup",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amineo/mjml4-lambda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amineo/mjml4-lambda/issues"
+  },
+  "homepage": "https://github.com/amineo/mjml4-lambda#readme",
+  "keywords": [
+    "mjml",
+    "email",
+    "node",
+    "aws",
+    "lambda"
+  ],
+  "authors": {
+    "name": "Anthony Mineo",
+    "email": "anthonymineo@gmail.com",
+    "url": "https://anthonymineo.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.3.0"
+  }
+}
