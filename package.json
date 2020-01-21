@@ -1,6 +1,6 @@
 {
   "name": "mjml4-lambda",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple lambda that accepts mjml + options and returns the generated markup",
   "main": "index.js",
   "engines": {
@@ -32,6 +32,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "mjml": "^4.3.0"
+    "mjml": "^4.5.1"
   }
 }
